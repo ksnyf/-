@@ -4,5 +4,5 @@ int main(){
    std::cout << "Привет Мир! Как дела?";
    int n;
    std::cin >> n;
-   std::cout << n;
+   std::cout << n +5;
 }
